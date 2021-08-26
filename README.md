@@ -16,7 +16,7 @@ There are two user role - **Admin** and **Customer**.
 Following are the requirements to run this project - 
 
 - install NodeJS
-- install PostgreSQl
+- install PostgreSQL
 - A database for this e-commerce (only name, the migration files will do the rest)
 
 - After that rename .env.example to .env and change its values accordingly. Also rename config-example.json file in the code by config.json with all appropriate values. 
@@ -30,3 +30,8 @@ Following are the requirements to run this project -
 - npx sequelize-cli db:seed:all
 
 - npm start
+
+
+
+
+![atul](https://i.imgur.com/gLB8kJn.png)
