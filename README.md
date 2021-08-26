@@ -38,48 +38,48 @@ Following are the requirements to run this project -
 
 #### register
 ##### body- 
-![atul](https://i.imgur.com/iPKs9pj.png)
+![atul](https://i.imgur.com/yRkHZvD.png)
 
 ##### response-
-![atul](https://i.imgur.com/Ib56o4o.png)
+![atul](https://i.imgur.com/wDYnJth.png)
 
 #### login
 ##### body-
-![atul](https://i.imgur.com/1lhBFEJ.png)
+![atul](https://i.imgur.com/Se5BcmC.png)
 
 ##### response-
-![atul](https://i.imgur.com/qvVVrR7.png)
+![atul](https://i.imgur.com/5fC75sO.png)
 
 #### logout
 ##### response-
-![atul](https://i.imgur.com/wzrQcO8.png)
+![atul](https://i.imgur.com/TjbknJC.png)
 
 #### addProducts
 ##### body-
-![atul](https://i.imgur.com/iNqJO8r.png)
+![atul](https://i.imgur.com/bgq5OBY.png)
 
 ##### response-
-![atul](https://i.imgur.com/9ruPTs9.png)                            
+![atul](https://i.imgur.com/GRQgVyY.png)                            
 
 #### getOrders
 ##### response-
-![atul](https://i.imgur.com/ERb9yZm.png)                                
+![atul](https://i.imgur.com/BhBpquv.png)                                
 
 ### customer APIs
                                                                 
 #### register
 ##### body-
-![atul](https://i.imgur.com/bK0n5nJ.png)
+![atul](https://i.imgur.com/vdhg9AR.png)
 
 ##### response-
-![atul](https://i.imgur.com/gqWoCMP.png)
+![atul](https://i.imgur.com/2ktLWSH.png)
 
 #### login
 ##### body-
-![atul](https://i.imgur.com/fQwck7q.png)
+![atul](https://i.imgur.com/CvliqwV.png)
 
 ##### response-
-![atul](https://i.imgur.com/qw7IX6z.png)
+![atul](https://i.imgur.com/k85Tjj7.png)
 
 #### logout
 ##### response-
@@ -87,20 +87,20 @@ Following are the requirements to run this project -
 
 #### getAllProducts
 ##### response-
-![atul](https://i.imgur.com/eI03aKc.png)
+![atul](https://i.imgur.com/JBjGuZt.png)
 
 #### getProductsbyId
 ##### response-
-![atul](https://i.imgur.com/3Frh5Mh.png)
+![atul](https://i.imgur.com/g88GszF.png)
 
 #### placeOrder
 ##### body-
-![atul](https://i.imgur.com/akDt9Rg.png)
+![atul](https://i.imgur.com/WBpKpxm.png)
 
 ##### response-
-![atul](https://i.imgur.com/rN2lmwH.png)
+![atul](https://i.imgur.com/TIhcGkK.png)
 
 #### getOrders
 ##### response-
-![atul](https://i.imgur.com/gyQ3Dxe.png)
+![atul](https://i.imgur.com/iVwdpdp.png)
 
