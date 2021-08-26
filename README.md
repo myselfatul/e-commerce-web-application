@@ -36,71 +36,71 @@ Following are the requirements to run this project -
 
 ### admin APIs - 
 
-#### register
+#### 1.register
 ##### body- 
 ![atul](https://i.imgur.com/yRkHZvD.png)
 
 ##### response-
 ![atul](https://i.imgur.com/wDYnJth.png)
 
-#### login
+#### 2.login
 ##### body-
 ![atul](https://i.imgur.com/Se5BcmC.png)
 
 ##### response-
 ![atul](https://i.imgur.com/5fC75sO.png)
 
-#### logout
+#### 3.logout
 ##### response-
 ![atul](https://i.imgur.com/TjbknJC.png)
 
-#### addProducts
+#### 4.addProducts
 ##### body-
 ![atul](https://i.imgur.com/bgq5OBY.png)
 
 ##### response-
 ![atul](https://i.imgur.com/GRQgVyY.png)                            
 
-#### getOrders
+#### 5.getOrders
 ##### response-
 ![atul](https://i.imgur.com/BhBpquv.png)                                
 
 ### customer APIs
                                                                 
-#### register
+#### 1.register
 ##### body-
 ![atul](https://i.imgur.com/vdhg9AR.png)
 
 ##### response-
 ![atul](https://i.imgur.com/2ktLWSH.png)
 
-#### login
+#### 2.login
 ##### body-
 ![atul](https://i.imgur.com/CvliqwV.png)
 
 ##### response-
 ![atul](https://i.imgur.com/k85Tjj7.png)
 
-#### logout
+#### 3.logout
 ##### response-
 ![atul](https://i.imgur.com/qfJR3SL.png)
 
-#### getAllProducts
+#### 4.getAllProducts
 ##### response-
 ![atul](https://i.imgur.com/JBjGuZt.png)
 
-#### getProductsbyId
+#### 5.getProductsbyId
 ##### response-
 ![atul](https://i.imgur.com/g88GszF.png)
 
-#### placeOrder
+#### 6.placeOrder
 ##### body-
 ![atul](https://i.imgur.com/WBpKpxm.png)
 
 ##### response-
 ![atul](https://i.imgur.com/TIhcGkK.png)
 
-#### getOrders
+#### 7.getOrders
 ##### response-
 ![atul](https://i.imgur.com/iVwdpdp.png)
 
