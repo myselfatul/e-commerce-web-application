@@ -32,6 +32,75 @@ Following are the requirements to run this project -
 - npm start
 
 
+## screenshots
 
+### admin APIs - 
 
-![atul](https://i.imgur.com/gLB8kJn.png)
+#### register
+##### body- 
+![atul](https://i.imgur.com/iPKs9pj.png)
+
+##### response-
+![atul](https://i.imgur.com/Ib56o4o.png)
+
+#### login
+##### body-
+![atul](https://i.imgur.com/1lhBFEJ.png)
+
+##### response-
+![atul](https://i.imgur.com/qvVVrR7.png)
+
+#### logout
+##### response-
+![atul](https://i.imgur.com/wzrQcO8.png)
+
+#### addProducts
+##### body-
+![atul](https://i.imgur.com/iNqJO8r.png)
+
+##### response-
+![atul](https://i.imgur.com/9ruPTs9.png)                            
+
+#### getOrders
+##### response-
+![atul](https://i.imgur.com/ERb9yZm.png)                                
+
+### customer APIs
+                                                                
+#### register
+##### body-
+![atul](https://i.imgur.com/bK0n5nJ.png)
+
+##### response-
+![atul](https://i.imgur.com/gqWoCMP.png)
+
+#### login
+##### body-
+![atul](https://i.imgur.com/fQwck7q.png)
+
+##### response-
+![atul](https://i.imgur.com/qw7IX6z.png)
+
+#### logout
+##### response-
+![atul](https://i.imgur.com/qfJR3SL.png)
+
+#### getAllProducts
+##### response-
+![atul](https://i.imgur.com/eI03aKc.png)
+
+#### getProductsbyId
+##### response-
+![atul](https://i.imgur.com/3Frh5Mh.png)
+
+#### placeOrder
+##### body-
+![atul](https://i.imgur.com/akDt9Rg.png)
+
+##### response-
+![atul](https://i.imgur.com/rN2lmwH.png)
+
+#### getOrders
+##### response-
+![atul](https://i.imgur.com/gyQ3Dxe.png)
+
